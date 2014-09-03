@@ -1,0 +1,148 @@
+/* Define the base color */
+/* Common styles & typography */
+a,
+a:hover,
+a:focus,
+a:active {
+  color: #81c83c;
+}
+.section-heading {
+  border-color: #81c83c;
+}
+.button,
+.tp-button {
+  background-color: #008641;
+}
+
+.button:hover,
+.tp-button:hover {
+    background-color: rgb(255, 173, 0);
+    color: #000 !important;
+    transition: .3s;
+}
+
+.bullets .active a,
+.arrow-left:hover,
+.arrow-right:hover {
+  background-color: #81c83c;
+}
+/* Navigation */
+.navbar-toggle .icon-bar {
+  background-color: #81c83c;
+}
+.nav li > a:hover,
+.nav li.active > a:hover {
+  color: #81c83c;
+}
+/* Featured portfolio */
+.featured .overlay {
+  background-color: #81c83c;
+}
+
+.flex-control-paging li a.flex-active{
+  background-color: #81c83c;
+}
+.full-portfolio .fa {
+  color: #81c83c;
+}
+/* Feature box */
+.feature-box > .fa {
+  color: #81c83c;
+}
+/* Services */
+.service:hover .circle {
+  -webkit-box-shadow: inset #81c83c 0 0 0 5px;
+  -moz-box-shadow: inset #81c83c 0 0 0 5px;
+  -ms-box-shadow: inset #81c83c 0 0 0 5px;
+  -o-box-shadow: inset #81c83c 0 0 0 5px;
+  box-shadow: inset #81c83c 0 0 0 5px;
+}
+.service .circle .fa {
+  color: #81c83c;
+}
+.service .circle:before {
+  background-color: #81c83c;
+}
+
+/*divider */
+
+
+.spacer {
+  background-color: #81c83c;
+}
+
+/* Testimonials */
+.testimonial .info em {
+  color: #81c83c;
+}
+/* Facts */
+.facts .count {
+  color: #81c83c;
+}
+/* Team */
+
+.social a:hover {
+  color: #81c83c;
+}
+/* Skill */
+.skill .bar .value {
+  background: #81c83c;
+}
+/* Portfolio */
+.portfolio .overlay {
+background:rgba(129,200,60,0.8) 
+}
+
+
+.portfolio-filter .filter.active, .portfolio-filter li.active a{
+  background: #81c83c;
+  color:#fff;
+}
+
+
+/* Twitter icon */
+.twitter-icon:after {
+  background: #81c83c;
+}
+/* Contact section */
+.address .fa {
+  color: #81c83c;
+}
+/* Footer */
+footer {
+  background: rgb(0, 134, 65);
+}
+/* Slider revolution */
+.tp-leftarrow.default:hover,
+.tp-rightarrow.default:hover,
+.tp-bullets .bullet.selected {
+  background-color: #81c83c !important;
+}
+
+#portfolio-list li .more { 
+background:#81c83c;
+border: 2px solid #81c83c;
+}
+
+.nav-fixed .navbar{
+background:rgba(129,200,60,0.8) !important;
+}
+
+
+.nav li:hover:after {
+background:#81c83c;
+}
+
+
+.nav li a:hover{
+border-bottom:1px solid #81c83c;
+}
+
+
+.nav-fixed .navbar-toggle .icon-bar{
+  background-color: #000;
+}
+
+.hostingicon i {
+  background-color: #81c83c;
+}
